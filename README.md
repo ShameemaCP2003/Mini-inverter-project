@@ -15,7 +15,7 @@ This project is a compact mini inverter designed to convert DC power into AC out
 - Embedded Electronics
 
 ## Project Status
-🚧 Ongoing Development
+Ongoing Development
 
 ## Future Improvements
 - Better efficiency
